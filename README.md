@@ -5,4 +5,4 @@ Conf:
   a) Military University of Technology (Warsaw PL):
  
     1) Secon 2018 - Article (#code will be shared)
-    2) Secon 2019 - Article (#code will be shared)
+    2) Secon 2019 - Article (project: https://github.com/swiru95/omnetpp_sdncontroller.git)
