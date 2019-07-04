@@ -1,5 +1,5 @@
 # Articles
-This repo holds few articles written by me.
+This repo holds a few articles written by me.
 
 Conf:
   a) Military University of Technology (Warsaw PL):
