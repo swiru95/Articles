@@ -6,6 +6,11 @@ Conf:
  
     1) Secon 2018 - Article (project: https://github.com/swiru95/omnetpp_sipclient.git)
     2) Secon 2019 - Article (project: https://github.com/swiru95/omnetpp_sdncontroller.git)
+    
+Diolomas:
+    1) Engineer thesis
+    2) Masters thesis
+
 
 Papers:
   a) Elektronika:
